@@ -21,7 +21,9 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 <p align="left">
   <img src="Resources/ROS.PNG"/>
 </p>
+
 ---
+
 #### 2. Random Oversampling with SMOTE
 
 - Balanced Accuracy Score: **65%**
