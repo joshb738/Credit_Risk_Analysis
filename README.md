@@ -18,10 +18,10 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **67%**
 - F1 Score: **80%**
 
-<p align="center">
+<p align="left">
   <img src="Resources/ROS.PNG"/>
 </p>
-
+---
 #### 2. Random Oversampling with SMOTE
 
 - Balanced Accuracy Score: **65%**
@@ -29,7 +29,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **65%**
 - F1 Score: **78%**
 
-<p align="center">
+<p align="left">
   <img src="Resources/ROS_smote.PNG"/>
 </p>
 
@@ -40,7 +40,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **45%**
 - F1 Score: **62%**
 
-<p align="center">
+<p align="left">
   <img src="Resources/CC_Undersampling.PNG"/>
 </p>
 
@@ -51,7 +51,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **55%**
 - F1 Score: **71%**
 
-<p align="center">
+<p align="left">
   <img src="Resources/Combination_smoteen.PNG"/>
 </p>
 
@@ -62,7 +62,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **91%**
 - F1 Score: **95%**
 
-<p align="center">
+<p align="left">
   <img src="Resources/BRF_Classifier.PNG"/>
 </p>
 
@@ -73,7 +73,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **94%**
 - F1 Score: **97%**
 
-<p align="center">
+<p align="left">
   <img src="Resources/EEA_Classifier.PNG"/>
 </p>
 
