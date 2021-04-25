@@ -6,8 +6,8 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 
 ## Resources
 
-Applications\Software: Jupyter Notebook 6.1.4, 
-Languages\Libraries: pandas, imbalanced-learn, scikit-learn
+- Applications\Software: Jupyter Notebook 6.1.4, 
+- Languages\Libraries: pandas, imbalanced-learn, scikit-learn
 
 ## Results
 
