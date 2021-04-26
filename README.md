@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Using Unsupervised Machine learning to analyze and predict credit risk based on a credit card credit dataset from LendingClub. This analysis will employ various algorithms and techniques to build, train and evaluate models with unbalanced classes.
+Using supervised Machine learning to analyze and predict credit risk based on a credit card credit dataset from LendingClub. This analysis will employ various algorithms and techniques to build, train and evaluate models with unbalanced classes.
 
 ## Resources
 
