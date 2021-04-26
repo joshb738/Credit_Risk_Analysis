@@ -18,9 +18,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Recall (Sensitivity): **67%**
 - F1 Score: **80%**
 
-<p align="left">
-  <img src="Resources/ROS.PNG"/>
-</p>
+<img src="Resources/ROS.PNG"/>
 
 ---
 
