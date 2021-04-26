@@ -10,7 +10,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Languages\Libraries: pandas, imbalanced-learn, scikit-learn
 
 ## Results
-### Resampling Models
+### [Resampling Models](credit_risk_resampling.ipynb)
 
 #### 1. Naive Random Oversampling
 
@@ -50,7 +50,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 
 ---
 
-### Ensemble Classifiers
+### [Ensemble Classifiers](credit_risk_ensemble.ipynb)
 
 #### 5. Balanced Random Forest Classifier
 
