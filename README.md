@@ -62,8 +62,6 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 
 <img src="Resources/BRF_Classifier.PNG"/>
 
----
-
 #### 6. Easy Ensemble AdaBoost Classifier
 
 - Balanced Accuracy Score: **93%**
