@@ -8,6 +8,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 
 - Applications\Software: Jupyter Notebook 6.1.4, 
 - Languages\Libraries: pandas, imbalanced-learn, scikit-learn
+- Data Analysis: [Resampling Models](credit_risk_resampling.ipynb), [Ensemble Classifiers](credit_risk_ensemble.ipynb)
 
 ## Results
 ### [Resampling Models](credit_risk_resampling.ipynb)
@@ -81,6 +82,6 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - The Cluster Centroid Undersampling model produced the lowest Recall (Sensitivity) score of 45%.
 - The Easy Ensemble AdaBoost Classifier model produced the highest F1 score of 97%.
 
-Based on the results I would recommend the **Easy Ensemble AdaBoost Classifier** method for predicting credit risk. This method not only produced the highest Balance Accuracy Score of approximately **93%*, but also the highest Recall (Sensitivity) & F1 scores of 94% and 97% respectively.
+Based on the results I would recommend the **Easy Ensemble AdaBoost Classifier** method for predicting credit risk. This method not only produced the highest Balance Accuracy Score of approximately **93%**, but also the highest Recall (Sensitivity) & F1 scores of **94% and 97%** respectively.
 
  
