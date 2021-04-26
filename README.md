@@ -10,6 +10,7 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - Languages\Libraries: pandas, imbalanced-learn, scikit-learn
 
 ## Results
+### Resampling Models
 
 #### 1. Naive Random Oversampling
 
@@ -20,8 +21,6 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 
 <img src="Resources/ROS.PNG"/>
 
----
-
 #### 2. Random Oversampling with SMOTE
 
 - Balanced Accuracy Score: **65%**
@@ -31,8 +30,6 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 
 <img src="Resources/ROS_smote.PNG"/>
 
----
-
 #### 3. Cluster Centroid Undersampling
 
 - Balanced Accuracy Score: **52%**
@@ -41,8 +38,6 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 - F1 Score: **62%**
 
 <img src="Resources/CC_Undersampling.PNG"/>
-
----
 
 #### 4. Combination (Over and Under Sampling) with SMOTEENN
 
@@ -54,6 +49,8 @@ Using Unsupervised Machine learning to analyze and predict credit risk based on 
 <img src="Resources/Combination_smoteen.PNG"/>
 
 ---
+
+### Ensemble Classifiers
 
 #### 5. Balanced Random Forest Classifier
 
